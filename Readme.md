@@ -15,6 +15,7 @@ Hardware you'll need:
 | M3x6 screw  | 2  |
 | M3x8 screw  | 4  |
 | M5x8 screw  | 4  |
+| M3 heatset  | 6  |
 | M5 roll-in nut  | 4  |
 
 - Print the PCB mount.
