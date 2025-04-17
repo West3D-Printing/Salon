@@ -4,9 +4,9 @@ Files and documentation for the Salon board for Casa
 We wanted to provide a simple and inexpensive way to connect your Milo to the electronics bay of your Casa while allowing you to easily remove the Milo for service. The Salon PCB provides a "patchbay" to interconnect your MCU and the mill.
 
 # How?
-You can purchase the Salon board and/or wiring bundles at West3D here: https://west3d.com/PLACEHOLDER_URL You're also welcome to produce your own PCB with our [KiCad files] (. The wiring is a simple 1:1 between the electronics bay and mill.
+You can purchase the Salon board and/or wiring bundles at West3D here: https://west3d.com/PLACEHOLDER_URL You're also welcome to produce your own PCB with our [KiCad files](kicad). The wiring is a simple 1:1 between the electronics bay and mill.
 
-[STLs](/stls) for a printed PCB mount are in this repo.
+[STLs](stls) for a printed PCB mount are in this repo.
 ![image](images/Salon_case_front.png)![image](images/Salon_case_back.png)
 # Setup
 - Print the PCB mount.
