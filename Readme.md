@@ -9,6 +9,14 @@ You can purchase the Salon board and/or wiring bundles at West3D here: https://w
 [STLs](stls) for a printed PCB mount are in this repo.
 ![image](images/Salon_case_front.png)![image](images/Salon_case_back.png)
 # Setup
+Hardware you'll need:
+| Fastener  | Quantity |
+| ------------- | ------------- |
+| M3x6 screw  | 2  |
+| M3x8 screw  | 4  |
+| M5x8 screw  | 4  |
+| M5 roll-in nut  | 4  |
+
 - Print the PCB mount.
 - Insert two "Voron standard" M3 heat inserts in the back of the mount to hold the PCB, as well as two in the top and another two in the lower legs to hold the front of the case.
 - The PCB is held in place with two M3x6 screws.
