@@ -13,7 +13,7 @@ You can purchase the Salon board with wiring bundles at West3D here: https://wes
 
 The front hasn't changed ans works with either back.
 
-We've also included printable thumbscrews. These use a Voron standard brass heat insert and an M3x10 SHCS, and make it easy to remove the Salon front without needing tools.
+We've also included printable thumbscrews. These use a Voron standard brass heat insert and an M3x10 NHCS or SHCS, and make it easy to remove the Salon front without needing tools.
 ![image](images/Salon_case_front_2.JPG)![image](images/Salon_case_back_2.JPG)
 # Setup
 Hardware you'll need:
