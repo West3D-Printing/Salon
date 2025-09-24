@@ -11,12 +11,12 @@ You can purchase the Salon board with wiring bundles at West3D here: https://wes
 2) An opening on the back to run wires upward for lighting (or whatever)
 3) Slots at the bottom for zip ties to provide strain relief on the cables
 
-The front hasn't changed ans works with either back.
+The front hasn't changed and works with either back.
 
-We've also included printable thumbscrews. These use a Voron standard brass heat insert and an M3x10 NHCS or SHCS, and make it easy to remove the Salon front without needing tools.
+We've also included printable thumbscrews. These use a Voron standard brass heat insert and an M3x10 BHCS or SHCS, and make it easy to remove the Salon front without needing tools.
 ![image](images/Salon_case_front_2.JPG)![image](images/Salon_case_back_2.JPG)
 # Setup
-Hardware you'll need:
+Hardware you'll need for the mount:
 | Fastener  | Quantity |
 | ------------- | ------------- |
 | M3x6 screw  | 2  |
@@ -29,7 +29,7 @@ Hardware you'll need:
 - Insert two "Voron standard" M3 heat inserts in the back of the mount to hold the PCB, as well as two in the top and another two in the lower legs to hold the front of the case.
 - The PCB is held in place with two M3x6 screws.
 ![image](images/Salon_case_PCB.png)
-Please note this is the V1 mount back
+<sub>Please note this is the V1 mount back in the render</sub>
 - After installing the PCB, attach the back of the mount to the rear upright in the Casa with four M5x8 screws and roll-in nuts.
 - Connect the wiring from the electronics bay to the PCB, then connect the wiring from the mill. There's no defined in or out sides, all connections are are parallel.
 - Once everything is patched install the front cover with four M3x8 screws to help keep chips away from the connections.
