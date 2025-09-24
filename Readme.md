@@ -6,7 +6,12 @@ We wanted to provide a simple and inexpensive way to connect your Milo to the el
 # How?
 You can purchase the Salon board and/or wiring bundles at West3D here: https://west3d.com/products/milo-salon-de-la-casa-breakout-board-and-wiring-kit-for-milo-casa You're also welcome to produce your own PCB with our [KiCad files](kicad). The wiring is a simple 1:1 between the electronics bay and mill.
 
-[STLs](stls) for a printed PCB mount are in this repo.
+[STLs](stls) for a printed PCB mount are in this repo. There is now an updated version of the mount with some improvements:
+1) More enclosed to keep chaff away from the connectors
+2) A passthrough opening on the back for lighting (or whatever)
+3) Slots at the bottom for zip ties to provide strain relief on the cables
+
+We've also included printable thumbscrews. These use a Voron standard brass heat insert and an M3x10 SHCS, and make it easy to remove the Salon front without needing tools.
 ![image](images/Salon_case_front.png)![image](images/Salon_case_back.png)
 # Setup
 Hardware you'll need:
