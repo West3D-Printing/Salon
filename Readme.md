@@ -4,15 +4,17 @@ Files and documentation for the Salon board for Casa
 We wanted to provide a simple and inexpensive way to connect your Milo to the electronics bay of your Casa while allowing you to easily remove the Milo for service. The Salon PCB provides a "patchbay" to interconnect your MCU and the mill.
 
 # How?
-You can purchase the Salon board and/or wiring bundles at West3D here: https://west3d.com/products/milo-salon-de-la-casa-breakout-board-and-wiring-kit-for-milo-casa You're also welcome to produce your own PCB with our [KiCad files](kicad). The wiring is a simple 1:1 between the electronics bay and mill.
+You can purchase the Salon board with wiring bundles at West3D here: https://west3d.com/products/milo-salon-de-la-casa-breakout-board-and-wiring-kit-for-milo-casa You're also welcome to produce your own PCB with our [KiCad files](kicad). The wiring is a simple 1:1 between the electronics bay and mill.
 
-[STLs](stls) for a printed PCB mount are in this repo. There is now an updated version of the mount with some improvements:
+[STLs](stls) for a 3D printed PCB mount are in this repo. **There is now an updated version of the back mount with some improvements:**
 1) More enclosed to keep chaff away from the connectors
-2) A passthrough opening on the back for lighting (or whatever)
+2) An opening on the back to run wires upward for lighting (or whatever)
 3) Slots at the bottom for zip ties to provide strain relief on the cables
 
+The front hasn't changed ans works with either back.
+
 We've also included printable thumbscrews. These use a Voron standard brass heat insert and an M3x10 SHCS, and make it easy to remove the Salon front without needing tools.
-![image](images/Salon_case_front.png)![image](images/Salon_case_back.png)
+![image](images/Salon_case_front_2.jpg)![image](images/Salon_case_back_2.jpg)
 # Setup
 Hardware you'll need:
 | Fastener  | Quantity |
@@ -27,6 +29,7 @@ Hardware you'll need:
 - Insert two "Voron standard" M3 heat inserts in the back of the mount to hold the PCB, as well as two in the top and another two in the lower legs to hold the front of the case.
 - The PCB is held in place with two M3x6 screws.
 ![image](images/Salon_case_PCB.png)
+Please note this is the V1 mount back
 - After installing the PCB, attach the back of the mount to the rear upright in the Casa with four M5x8 screws and roll-in nuts.
 - Connect the wiring from the electronics bay to the PCB, then connect the wiring from the mill. There's no defined in or out sides, all connections are are parallel.
 - Once everything is patched install the front cover with four M3x8 screws to help keep chips away from the connections.
